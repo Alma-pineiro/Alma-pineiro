@@ -1,5 +1,5 @@
 # Hi there! I'm Alma Piñeiro :pink_heart:  
-**Software Engineering Student @ UPRM**  
+**Software Engineering Student @ UPRM 💚 🐾 💻**  
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Alma-pineiro&label=Profile%20views&color=f50ca7&style=flat" alt="Alma-Pineiro" />
 </p>
@@ -10,7 +10,7 @@
 
 ---
 
-## 🧠 About Me  
+## :cherry_blossom:  About Me  
 - 🎓 Studying **Software Engineering**
 - 📊 Data Structures and Algorithms TA
 - 🧩 Interested in **web development**, **Machine Learning**, and **Database Design**  
