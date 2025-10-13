@@ -9,8 +9,8 @@
 - 🎓 Studying **Software Engineering**
 - 📊 Data Structures and Algorithms TA
 - 🧩 Interested in **web development**, **Machine Learning**, and **Database Design**  
-- 💾 Currently working on a **Low Rank Approximation Research** as part of the Edge ML Computing Group  
-- 🚀 Always curious and excited to learn something new!=
+- 💾 Currently working on a **Low Rank Approximation Research** as part of the Edge ML Computing Group led by **Dr.Wilfredo Lugo**
+- 🚀 Always curious and excited to learn something new!
 
 ---
 
@@ -30,15 +30,16 @@
 ---
 
 ## 📈 GitHub Stats  
-![Alma's GitHub stats](https://github-readme-stats.vercel.app/api?username=almapi&show_icons=true&theme=tokyonight)
+![Alma's GitHub stats](https://github-readme-stats.vercel.app/api?username=almapi&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almapi&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almapi&layout=compact&theme=radical)
 
 ---
 
 ## 🧩 Projects  
 - 👗 Hand Me Down – Current project manager for the Software Design course, leading the development of a secondhand clothing platform aimed at reducing textile pollution in Puerto Rico.
 - 💾 **Low Rank Aproximation Research** – Focused on implementing and analyzing matrix decomposition techniques such as SVD to optimize data representation and dimensionality reduction
+- 📡 Online Store – Developed the front end for the Data Structures and Algorithms course project.
 - 🐾 **Pet Adoption App** – Developed as part of the Introduction to Software Engineering course, this project aimed to create an app that helps dogs and cats find loving homes through an intuitive adoption platform.
 
 ---
