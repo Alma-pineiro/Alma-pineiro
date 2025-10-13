@@ -1,5 +1,10 @@
 # Hi there! I'm Alma Piñeiro :pink_heart:  
 **Software Engineering Student @ UPRM**  
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Alma-pineiro&label=Profile%20views&color=f50ca7&style=flat" alt="Alma-Pineiro" />
+</p>
+
+
 💻 Passionate about building meaningful software & improving user experiences.  
 [🌐 LinkedIn](https://www.linkedin.com/in/alma-piñeiro-63979336a/?originalSubdomain=pr)
 
