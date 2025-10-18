@@ -13,7 +13,8 @@
 ## :cherry_blossom:  About Me  
 - 🎓 Studying **Software Engineering**
 - 📊 Data Structures and Algorithms TA
-- 🧩 Interested in **web development**, **Machine Learning**, and **Database Design**  
+- 🧩 Interested in **web development**, **Machine Learning**, and **Database Design**
+- :robot: AON Robotics **Software Developer**
 - 💾 Currently working on a **Low Rank Approximation Research** as part of the Edge ML Computing Group led by **Dr.Wilfredo Lugo**
 - 🚀 Always curious and excited to learn something new!
 
